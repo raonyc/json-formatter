@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/83a0685a-56b0-406a-82a6-bf98de03ae5a
+
 # JSON Formatter - the original
 
 Chrome extension that auto-formats JSON when you view it in a browser tab.
